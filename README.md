@@ -61,10 +61,6 @@ The project uses four related tables:
 
 ![Schema](screenshots/01_Database_Schema.png)
 
-### Top 3 Pizza Types by Revenue
-
-![Revenue](screenshots/03_Top_3_Pizzas_by_Revenue.png)
-
 ### Revenue Contribution
 
 ![Revenue Contribution](screenshots/04_Revenue_Contribution.png)
